@@ -1,0 +1,1379 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        163,
+                        60,
+                        516,
+                        165
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                187,
+                                58,
+                                489,
+                                80
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        187,
+                                        58,
+                                        489,
+                                        80
+                                    ],
+                                    "score": 0.963,
+                                    "content": "IN THE SUPREME COURT OF NIGERIA",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                259,
+                                90,
+                                417,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        259,
+                                        90,
+                                        417,
+                                        106
+                                    ],
+                                    "score": 0.953,
+                                    "content": "HOLDEN AT ABUJA",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                116,
+                                515,
+                                136
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        164,
+                                        116,
+                                        515,
+                                        136
+                                    ],
+                                    "score": 0.933,
+                                    "content": "ONFRIDAY, THE 21ST DAY FEBRUARY,2025",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                227,
+                                144,
+                                450,
+                                163
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        227,
+                                        144,
+                                        450,
+                                        163
+                                    ],
+                                    "score": 0.966,
+                                    "content": "BEFORE THEIR LORDSHIPS",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 1.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        101,
+                        193,
+                        576,
+                        327
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                100,
+                                191,
+                                572,
+                                213
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        100,
+                                        191,
+                                        572,
+                                        213
+                                    ],
+                                    "score": 0.965,
+                                    "content": "HELEN MORONKEJIOGUNWUMIJU JUSTICE, SUPREME COURT",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                102,
+                                218,
+                                574,
+                                240
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        102,
+                                        222,
+                                        333,
+                                        240
+                                    ],
+                                    "score": 0.94,
+                                    "content": "EMMANUEL AKOMAYE AGIM",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        345,
+                                        218,
+                                        574,
+                                        240
+                                    ],
+                                    "score": 0.96,
+                                    "content": "JUSTICE,SUPREME COURT",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                102,
+                                248,
+                                572,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        102,
+                                        251,
+                                        296,
+                                        268
+                                    ],
+                                    "score": 0.979,
+                                    "content": "HARUNA SIMON TSAMMANI",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        347,
+                                        248,
+                                        572,
+                                        267
+                                    ],
+                                    "score": 0.992,
+                                    "content": "JUSTICE SUPREME COURT",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                103,
+                                275,
+                                572,
+                                296
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        103,
+                                        278,
+                                        333,
+                                        295
+                                    ],
+                                    "score": 0.958,
+                                    "content": "OBANDE FESTUS OGBUINYA",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        347,
+                                        275,
+                                        572,
+                                        296
+                                    ],
+                                    "score": 0.954,
+                                    "content": "JUSTICE SUPREME COURT",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                101,
+                                303,
+                                575,
+                                324
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        101,
+                                        304,
+                                        302,
+                                        324
+                                    ],
+                                    "score": 0.946,
+                                    "content": "MOHAMMED BABA IDRIS",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        353,
+                                        303,
+                                        575,
+                                        323
+                                    ],
+                                    "score": 0.934,
+                                    "content": "JUSTICE, SUPREME COURT",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        100,
+                        329,
+                        565,
+                        490
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                426,
+                                326,
+                                527,
+                                353
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        426,
+                                        326,
+                                        527,
+                                        353
+                                    ],
+                                    "score": 0.979,
+                                    "content": "SC/588/2014",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                101,
+                                380,
+                                190,
+                                399
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        101,
+                                        380,
+                                        190,
+                                        399
+                                    ],
+                                    "score": 0.992,
+                                    "content": "BETWEEN",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                102,
+                                410,
+                                547,
+                                428
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        102,
+                                        410,
+                                        322,
+                                        428
+                                    ],
+                                    "score": 0.95,
+                                    "content": "HERITAGE BANK LIMITED",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        440,
+                                        410,
+                                        547,
+                                        428
+                                    ],
+                                    "score": 0.994,
+                                    "content": "APPELLANT",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                150,
+                                435,
+                                186,
+                                459
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        150,
+                                        435,
+                                        186,
+                                        459
+                                    ],
+                                    "score": 0.975,
+                                    "content": "VS.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                99,
+                                466,
+                                563,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        467,
+                                        283,
+                                        489
+                                    ],
+                                    "score": 0.945,
+                                    "content": "MEENS NIGERIA LTD",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        439,
+                                        466,
+                                        563,
+                                        486
+                                    ],
+                                    "score": 0.996,
+                                    "content": "RESPONDENT",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        280,
+                        521,
+                        380,
+                        542
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                279,
+                                519,
+                                382,
+                                542
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        279,
+                                        519,
+                                        382,
+                                        542
+                                    ],
+                                    "score": 0.995,
+                                    "content": "JUDGMENT",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        101,
+                        551,
+                        526,
+                        572
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                99,
+                                548,
+                                528,
+                                573
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        548,
+                                        528,
+                                        573
+                                    ],
+                                    "score": 0.928,
+                                    "content": "(DELIVERED BY OBANDE FESTUS OGBUINYA, JSC",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        99,
+                        581,
+                        576,
+                        745
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                134,
+                                579,
+                                576,
+                                601
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        134,
+                                        579,
+                                        576,
+                                        601
+                                    ],
+                                    "score": 0.972,
+                                    "content": "This appeal probes into the rightness of the decision of the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                98,
+                                606,
+                                574,
+                                631
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        98,
+                                        606,
+                                        574,
+                                        631
+                                    ],
+                                    "score": 0.967,
+                                    "content": "Court of Appeal, Akure Division (hereunder addressed as \"the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                98,
+                                635,
+                                574,
+                                658
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        98,
+                                        635,
+                                        574,
+                                        658
+                                    ],
+                                    "score": 0.961,
+                                    "content": "lower court\"), coram judice:S. Denton-West, M. A. Danjuma and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                98,
+                                663,
+                                574,
+                                685
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        98,
+                                        663,
+                                        574,
+                                        685
+                                    ],
+                                    "score": 0.958,
+                                    "content": "J.S. Abiriyi, JJCA, in Appeal NO. CAAK/148/2012, delivered on the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                101,
+                                689,
+                                576,
+                                715
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        101,
+                                        691,
+                                        129,
+                                        709
+                                    ],
+                                    "score": 0.65,
+                                    "content": "1 6 ^ { \\mathrm { t h } }",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        130,
+                                        689,
+                                        576,
+                                        715
+                                    ],
+                                    "score": 0.962,
+                                    "content": "Juiy, 2014. In its judgment, the lower court affirmed the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                98,
+                                728,
+                                404,
+                                745
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        98,
+                                        728,
+                                        162,
+                                        744
+                                    ],
+                                    "score": 0.998,
+                                    "content": "SC/588/2014",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        268,
+                                        729,
+                                        404,
+                                        745
+                                    ],
+                                    "score": 0.961,
+                                    "content": "Obande Festus Ogbuinya, JSC",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "index": 18.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                612,
+                1008
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        568,
+                        27,
+                        577,
+                        38
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                567,
+                                25,
+                                578,
+                                38
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        567,
+                                        25,
+                                        578,
+                                        38
+                                    ],
+                                    "score": 0.993,
+                                    "content": "1",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        81,
+                        11,
+                        90,
+                        23
+                    ],
+                    "lines": []
+                }
+            ],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        163,
+                        60,
+                        516,
+                        165
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                187,
+                                58,
+                                489,
+                                80
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        187,
+                                        58,
+                                        489,
+                                        80
+                                    ],
+                                    "score": 0.963,
+                                    "content": "IN THE SUPREME COURT OF NIGERIA",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                259,
+                                90,
+                                417,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        259,
+                                        90,
+                                        417,
+                                        106
+                                    ],
+                                    "score": 0.953,
+                                    "content": "HOLDEN AT ABUJA",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                116,
+                                515,
+                                136
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        164,
+                                        116,
+                                        515,
+                                        136
+                                    ],
+                                    "score": 0.933,
+                                    "content": "ONFRIDAY, THE 21ST DAY FEBRUARY,2025",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                227,
+                                144,
+                                450,
+                                163
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        227,
+                                        144,
+                                        450,
+                                        163
+                                    ],
+                                    "score": 0.966,
+                                    "content": "BEFORE THEIR LORDSHIPS",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 1.5,
+                    "bbox_fs": [
+                        164,
+                        58,
+                        515,
+                        163
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        101,
+                        193,
+                        576,
+                        327
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                100,
+                                191,
+                                572,
+                                213
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        100,
+                                        191,
+                                        572,
+                                        213
+                                    ],
+                                    "score": 0.965,
+                                    "content": "HELEN MORONKEJIOGUNWUMIJU JUSTICE, SUPREME COURT",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                102,
+                                218,
+                                574,
+                                240
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        102,
+                                        222,
+                                        333,
+                                        240
+                                    ],
+                                    "score": 0.94,
+                                    "content": "EMMANUEL AKOMAYE AGIM",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        345,
+                                        218,
+                                        574,
+                                        240
+                                    ],
+                                    "score": 0.96,
+                                    "content": "JUSTICE,SUPREME COURT",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                102,
+                                248,
+                                572,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        102,
+                                        251,
+                                        296,
+                                        268
+                                    ],
+                                    "score": 0.979,
+                                    "content": "HARUNA SIMON TSAMMANI",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        347,
+                                        248,
+                                        572,
+                                        267
+                                    ],
+                                    "score": 0.992,
+                                    "content": "JUSTICESUPREMECOURT",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                103,
+                                275,
+                                572,
+                                296
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        103,
+                                        278,
+                                        333,
+                                        295
+                                    ],
+                                    "score": 0.958,
+                                    "content": "OBANDE FESTUS OGBUINYA",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        347,
+                                        275,
+                                        572,
+                                        296
+                                    ],
+                                    "score": 0.954,
+                                    "content": "JUSTICE SUPREME COURT",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                101,
+                                303,
+                                575,
+                                324
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        101,
+                                        304,
+                                        302,
+                                        324
+                                    ],
+                                    "score": 0.946,
+                                    "content": "MOHAMMED BABA IDRIS",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        353,
+                                        303,
+                                        575,
+                                        323
+                                    ],
+                                    "score": 0.934,
+                                    "content": "JUSTICE, SUPREME COURT",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 6,
+                    "bbox_fs": [
+                        100,
+                        191,
+                        575,
+                        324
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        100,
+                        329,
+                        565,
+                        490
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                426,
+                                326,
+                                527,
+                                353
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        426,
+                                        326,
+                                        527,
+                                        353
+                                    ],
+                                    "score": 0.979,
+                                    "content": "SC/588/2014",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                101,
+                                380,
+                                190,
+                                399
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        101,
+                                        380,
+                                        190,
+                                        399
+                                    ],
+                                    "score": 0.992,
+                                    "content": "BETWEEN",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                102,
+                                410,
+                                547,
+                                428
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        102,
+                                        410,
+                                        322,
+                                        428
+                                    ],
+                                    "score": 0.95,
+                                    "content": "HERITAGE BANK LIMITED",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        440,
+                                        410,
+                                        547,
+                                        428
+                                    ],
+                                    "score": 0.994,
+                                    "content": "APPELLANT",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                150,
+                                435,
+                                186,
+                                459
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        150,
+                                        435,
+                                        186,
+                                        459
+                                    ],
+                                    "score": 0.975,
+                                    "content": "VS.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                99,
+                                466,
+                                563,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        467,
+                                        283,
+                                        489
+                                    ],
+                                    "score": 0.945,
+                                    "content": "MEENS NIGERIA LTD",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        439,
+                                        466,
+                                        563,
+                                        486
+                                    ],
+                                    "score": 0.996,
+                                    "content": "RESPONDENT",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13,
+                            "is_list_start_line": true
+                        }
+                    ],
+                    "index": 11,
+                    "bbox_fs": [
+                        99,
+                        326,
+                        563,
+                        489
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        280,
+                        521,
+                        380,
+                        542
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                279,
+                                519,
+                                382,
+                                542
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        279,
+                                        519,
+                                        382,
+                                        542
+                                    ],
+                                    "score": 0.995,
+                                    "content": "JUDGMENT",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        101,
+                        551,
+                        526,
+                        572
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                99,
+                                548,
+                                528,
+                                573
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        548,
+                                        528,
+                                        573
+                                    ],
+                                    "score": 0.928,
+                                    "content": "(DELIVERED BY OBANDE FESTUS OGBUINYA, JSC",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        99,
+                        581,
+                        576,
+                        745
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                134,
+                                579,
+                                576,
+                                601
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        134,
+                                        579,
+                                        576,
+                                        601
+                                    ],
+                                    "score": 0.972,
+                                    "content": "This appeal probes into the rightness of the decision of the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                98,
+                                606,
+                                574,
+                                631
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        98,
+                                        606,
+                                        574,
+                                        631
+                                    ],
+                                    "score": 0.967,
+                                    "content": "Court of Appeal, Akure Division (hereunder addressed as \"the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                98,
+                                635,
+                                574,
+                                658
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        98,
+                                        635,
+                                        574,
+                                        658
+                                    ],
+                                    "score": 0.961,
+                                    "content": "lower court\"), coram judice:S. Denton-West, M. A. Danjuma and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                98,
+                                663,
+                                574,
+                                685
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        98,
+                                        663,
+                                        574,
+                                        685
+                                    ],
+                                    "score": 0.958,
+                                    "content": "J.S. Abiriyi, JJCA, in Appeal NO. CAAK/148/2012, delivered on the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                101,
+                                689,
+                                576,
+                                715
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        101,
+                                        691,
+                                        129,
+                                        709
+                                    ],
+                                    "score": 0.65,
+                                    "content": "1 6 ^ { \\mathrm { t h } }",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        130,
+                                        689,
+                                        576,
+                                        715
+                                    ],
+                                    "score": 0.962,
+                                    "content": "Juiy, 2014. In its judgment, the lower court affirmed the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                98,
+                                728,
+                                404,
+                                745
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        98,
+                                        728,
+                                        162,
+                                        744
+                                    ],
+                                    "score": 0.998,
+                                    "content": "SC/588/2014",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        268,
+                                        729,
+                                        404,
+                                        745
+                                    ],
+                                    "score": 0.961,
+                                    "content": "Obande Festus Ogbuinya, JSC",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "index": 18.5,
+                    "bbox_fs": [
+                        98,
+                        579,
+                        576,
+                        745
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.5.4"
+}
